@@ -35,14 +35,14 @@
 1. Клонируйте репозиторий:
 
     ```bash
-    git clone https://github.com/yourusername/google-oauth-express.git
+    git clone https://github.com/Ullyminat/google-oauth-express.git
     cd google-oauth-express
     ```
 
 2. Установите зависимости:
 
     ```bash
-    npm install
+    npm i
     ```
 
 3. Настройте файл `.env`:
